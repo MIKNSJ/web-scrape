@@ -20,3 +20,6 @@ class Web(driver):
 
     def close_page(this):
         this.close()
+    
+    def wait(this):
+        this.implicitly_wait(10);
