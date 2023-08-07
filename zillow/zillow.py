@@ -1,3 +1,5 @@
+# new features suspended due to bot verification tests
+
 from zpackage.web import Web 
 
 tracker = Web();

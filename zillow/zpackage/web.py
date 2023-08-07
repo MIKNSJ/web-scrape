@@ -1,5 +1,3 @@
-# SUSPENDED TO ZILLOW'S BOT VERIFICATION POP-UPS FOR NOW
-
 import os
 import zpackage.constants as const
 from selenium import webdriver
