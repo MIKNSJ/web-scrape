@@ -11,7 +11,7 @@ from selenium.webdriver.common.keys import Keys
 #    driver = webdriver.Firefox;
 
 class Web(webdriver.Firefox):
-    def __int__(this,
+    def __init__(this,
                 driver_path=r"/Documents/Progamming/Visual Studio/Drivers"):
         this.driver_path = driver_path;
         os.environ["PATH"] += this.driver_path;
