@@ -1,5 +1,3 @@
-# new features suspended due to bot verification tests
-
 from hpackage.web import Web 
 
 tracker = Web();

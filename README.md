@@ -1,5 +1,5 @@
 # estate-tracker
 
 Currently Supported Services: \
-[Zillow (Suspended)](https://www.zillow.com/) \
-[Hotpads](https://hotpads.com/)
+[Zillow (Search Results only)](https://www.zillow.com/) \
+[Hotpads (Search Results only)](https://hotpads.com/)
