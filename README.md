@@ -1,2 +1,7 @@
 # grocery-tracker
-init
+Currently Supported Services: \
+
+Work-In Progress: \
+Ralphs
+Vons
+Costco
