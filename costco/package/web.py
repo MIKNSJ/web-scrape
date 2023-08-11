@@ -22,3 +22,12 @@ class Web(webdriver.Firefox):
         print("[SYSTEM]: The following URL has been opened...");
         this.implicitly_wait(5);
         print("[SYSTEM]: Successfully waited five seconds upon loading...");
+
+    def search(this):
+        search_item = input("Enter a product/item to search: ");
+        search_box = this.find_element(By.CSS_SELECTOR, "#search-field");
+        search_icon = this.find_element(By.CSS_SELECTOR, "button.btn:nth-child(4)");
+        search_box.send_keys(search_item);
+        print("[SYSTEM]: Product/item entered into the search box...");
+        search_icon.click();
+        print("[SYSTEM]: Product/item results now displayed upon search...")
