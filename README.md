@@ -1,7 +1,7 @@
 # grocery-tracker
 Currently Supported Services: \
+[Costco](https://www.costco.com/) (First-page results only) \
 
 Work-In Progress: \
-Ralphs
-Vons
-Costco
+[Ralphs](https://www.ralphs.com/) \
+[Vons](https://www.vons.com/) \
