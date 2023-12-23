@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # web-scrape
 =======
 # web-scrape
@@ -21,3 +22,12 @@ Video Games Prices Tracker
 Supported Markets:
 Epic Games Store
 >>>>>>> vgp_tracker/main
+=======
+# grocery-tracker
+Currently Supported Services: \
+[Costco](https://www.costco.com/) (First-page results only) \
+
+Work-In Progress: \
+[Ralphs](https://www.ralphs.com/) \
+[Vons](https://www.vons.com/) \
+>>>>>>> grocery-tracker/main
