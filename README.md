@@ -1,33 +1,36 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# web-scrape
-=======
-# web-scrape
+# web-scrape Documentation
 
-Includes default template.
->>>>>>> web_scrape/main
-=======
-# estate-tracker
+Basic web-scraping for browsing groceries, apartments, or video games. 
 
-Currently Supported Services: \
-[Zillow (Search Results only)](https://www.zillow.com/) \
-[Hotpads (Search Results only)](https://hotpads.com/)
->>>>>>> estate-tracker/main
-=======
-# vgp-tracker
+***
+
+## Apartments
+Currently Supported Services:
+
+[Zillow](https://www.zillow.com/) (First-page results only)
+
+[Hotpads](https://hotpads.com/) (First-page results only)
+
+***
+
+## Video Games
 Video Games Prices Tracker
 
 Supported Markets:
-Epic Games Store
->>>>>>> vgp_tracker/main
-=======
-# grocery-tracker
-Currently Supported Services: \
-[Costco](https://www.costco.com/) (First-page results only) \
 
-Work-In Progress: \
-[Ralphs](https://www.ralphs.com/) \
-[Vons](https://www.vons.com/) \
->>>>>>> grocery-tracker/main
+Epic Games Store (Weekly free games only)
+
+***
+
+## Grocery Markets
+Currently Supported Services:
+
+[Costco](https://www.costco.com/) (First-page results only)
+
+Work-In Progress:
+
+[Ralphs](https://www.ralphs.com/)
+
+[Vons](https://www.vons.com/)
+
+***
