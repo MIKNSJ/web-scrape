@@ -1,2 +1,3 @@
-# test
-test
+# web-scrape
+
+Includes default template.
