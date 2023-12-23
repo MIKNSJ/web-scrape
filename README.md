@@ -1,6 +1,14 @@
 # web-scrape Documentation
 
-Basic web-scraping for browsing groceries, apartments, or video games. 
+This includes basic web-scraping for browsing groceries, apartments, and video games. 
+
+***
+
+## Selenium
+
+The tool for web-scraping dynamic websites and includes basic starter code.
+
+For static websites, check out BeautifulSoup.
 
 ***
 
