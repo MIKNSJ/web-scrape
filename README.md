@@ -1,44 +1,24 @@
-# web-scrape Documentation
+# Web Scrape
 
-This includes basic web-scraping for browsing groceries, apartments, and video games. 
+## Overview
+This repository includes the extraction of data using various web-scraping techniques for different websites. 
 
-***
+## Description
+Each folder includes a website(s) that has been web-scraped for data.
 
-## Selenium
+- Apartments
+- Groceries
+- Video Games
+- Selenium Config
+- Phone Cases
 
-The tool for web-scraping dynamic websites and includes basic starter code.
+## Contributions
+Common Tools
 
-For static websites, check out BeautifulSoup.
+- WSL2 (Ubuntu 11.4.0)
+- Vim + coc.nvim
+- npm + live-server
+- BeautifulSoup, Selenium, or regular API call
 
-***
-
-## Apartments
-Currently Supported Services:
-
-[Zillow](https://www.zillow.com/) (First-page results only)
-
-[Hotpads](https://hotpads.com/) (First-page results only)
-
-***
-
-## Video Games
-Video Games Prices Tracker
-
-Supported Markets:
-
-Epic Games Store (Weekly free games only)
-
-***
-
-## Grocery Markets
-Currently Supported Services:
-
-[Costco](https://www.costco.com/) (First-page results only)
-
-Work-In Progress:
-
-[Ralphs](https://www.ralphs.com/)
-
-[Vons](https://www.vons.com/)
-
-***
+## License
+Established on July 2023 by MIKNSJ.
